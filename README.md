@@ -17,6 +17,11 @@ Steps Completed
 6. Cloned the repository to my local machine.
 7. Opened the repository in Cursor.
 8. Created and updated the README.md file.
+9. Used Git commands in the terminal:
+   - `git add .`
+   - `git commit -m "Added README"`
+   - `git push origin main`
+10. Pushed the changes to GitHub successfully.
 
 Issues Encountered and How I Solved Them
 
@@ -32,3 +37,5 @@ Solution: After fixing the Git installation, I successfully cloned the repositor
 Issue 4: Difficulty opening the repository in Cursor
 Solution: I opened the repository using "Open Project" and switched to the Editor Window to access the project files.
 
+Issue 5: Could not find the project files in Cursor.
+Solution: Opened the correct project folder from the Editor Window and accessed the README file.
