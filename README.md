@@ -1,41 +1,45 @@
-# 100-HIRES-ASSIGNMENT- 
-Tools Installed
+## LinkedIn Organic Content Strategy for B2B SaaS
 
-- Cursor IDE
-- Claude Code extension
-- Codex extension
+## Project Overview
+
+This repository contains research on LinkedIn Organic Content Strategy for B2B SaaS. The objective is to study how experienced practitioners use LinkedIn to build authority, engage audiences, and generate business opportunities through organic content.
+
+## Why I Chose This Topic
+
+I chose this topic because LinkedIn has become one of the most important platforms for B2B SaaS founders to build credibility, establish thought leadership, and generate demand through organic content. Understanding how experienced practitioners approach LinkedIn content can provide valuable insights into effective founder-led marketing strategies.
+
+## Experts Researched
+
+- Morgan J. Ingram
+- Pierre Herubel
+- Sherry Shinde
+- Sakshi Tyagi
+- Will McTighe
+- Ross Simmonds
+- Chris Donnelly
+- Lara Acosta
+- Dave Gerhardt
+- Amanda Natividad
+
+## Repository Structure
+
+research/
+- sources.md
+- linkedin-posts/
+- youtube-transcripts/
+- other/
+
+## Tools Used
+
+- Cursor
+- Claude Code
 - Git
 - GitHub
+- Markdown
 
-Steps Completed
+## Research Method
 
-1. Installed Cursor IDE.
-2. Installed the Claude Code extension and logged in.
-3. Installed the Codex extension and logged in.
-4. Created a public GitHub repository.
-5. Installed Git.
-6. Cloned the repository to my local machine.
-7. Opened the repository in Cursor.
-8. Created and updated the README.md file.
-9. Used Git commands in the terminal:
-   - `git add .`
-   - `git commit -m "Added README"`
-   - `git push origin main`
-10. Pushed the changes to GitHub successfully.
-
-Issues Encountered and How I Solved Them
-
-Issue 1: Claude Code extension disappeared after restarting Cursor
-Solution: I reinstalled the extension and reopened the project in the Editor Window.
-
-Issue 2: Git was not recognized in the terminal
-Solution: I reinstalled Git, restarted the system, and verified the installation using `git --version`.
-
-Issue 3: Unable to clone the repository initially
-Solution: After fixing the Git installation, I successfully cloned the repository using the terminal.
-
-Issue 4: Difficulty opening the repository in Cursor
-Solution: I opened the repository using "Open Project" and switched to the Editor Window to access the project files.
-
-Issue 5: Could not find the project files in Cursor.
-Solution: Opened the correct project folder from the Editor Window and accessed the README file.
+- Selected ten practitioners based on their expertise in LinkedIn organic content strategy for B2B SaaS.
+- Collected recent LinkedIn posts.
+- Collected YouTube transcripts where available.
+- Organized the research into structured Markdown files.
