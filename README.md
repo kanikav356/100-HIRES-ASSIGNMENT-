@@ -15,10 +15,10 @@ I chose this topic because LinkedIn has become one of the most important platfor
 - Sherry Shinde
 - Sakshi Tyagi
 - Will McTighe
-- Ross Simmonds
-- Chris Donnelly
+- Fatima Khan
+- Jesse Chan
 - Lara Acosta
-- Dave Gerhardt
+- Matt Barker
 - Amanda Natividad
 
 ## Repository Structure
