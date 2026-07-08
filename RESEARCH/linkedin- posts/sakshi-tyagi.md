@@ -138,5 +138,3 @@ That is 35 posts. You have ideas for the next 3 months. The only thing left to d
 Save and repost!
 
 ** Annotation: Sakshi provides a structured content framework by categorizing post ideas into three objectives: building connection, increasing visibility, and driving credibility and conversions. Rather than suggesting random content ideas, she demonstrates how different types of posts serve distinct marketing goals and collectively create a balanced LinkedIn content strategy.
-
-

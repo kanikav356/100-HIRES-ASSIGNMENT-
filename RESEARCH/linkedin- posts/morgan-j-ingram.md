@@ -65,7 +65,6 @@ Relationships won't.
 ** Annotation: Morgan argues that LinkedIn success should be measured by the quality of relationships rather than reach or engagement metrics. He illustrates how focusing on meaningful conversations and trust-building can create greater business impact than chasing algorithm-driven visibility.
 
 
-
 ### Post 2
 
 **Date: 3 weeks ago
@@ -112,5 +111,67 @@ P.S.S for longer form videos.. going to put my YT channel in comments.
 ** Annotation: Morgan's practical approach to combining AI with sales and LinkedIn strategy. Rather than promoting AI as a shortcut, he advocates using it to improve research efficiency while preserving authentic, human communication.
 
 
-
 ## Post 3
+
+**Date: 2 months ago
+
+** Link: https://www.linkedin.com/posts/morganjingramamp_one-rep-generated-450000-in-pipeline-after-activity-7455618130090868736-nJrc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVBgGQBmJYgFfekDv8o_mjFVTOunUco2fw
+
+** Originial Post Content: 
+One rep generated $450,000 in pipeline after going through Sales Team Six. 
+
+The play that started it? 
+
+Personalized LinkedIn videos.
+
+I know.. videos. Everyone talks about them... I have said it 1000x times.
+
+Yet still to this day I get feedback from buyers that they have gotten 5 max in the past 12 months.
+
+That's the whole point.
+
+So as sales leaders I would look at your team and say.. who are 2-3 reps that will make 5 videos a day for the next 60 days to test this...?
+
+Real quick I will do the math for you:
+
+5 personalized videos per day...
+Takes about 45 minutes.
+
+100 videos per month per rep.
+
+3 reps doing this = 300 personalized videos.
+
+Even at a conservative 5% conversion to meetings = 15 meetings.
+
+$30K average deal size = $450,000 in potential pipeline.
+
+45 minutes of work per day...
+For your team that's nothing.
+
+All from doing what others consider "too time-consuming" or "unscalable."
+
+Which is exactly my point. The things that don't scale are the things nobody wants to do anymore. 
+
+That's where the advantage is.
+
+Now here is how the video works:
+
+45 seconds or less. 
+
+• Reference something specific about the buyer. Not "you are the title at company"... snooze. Look at product updates.. their careers page.. something real. 
+• Mention something of value related to your product. 
+• CTA. 
+• Smile when you do the video. (please don't be creepy though)
+
+The video proves you are a legit human. 
+That's the whole advantage right now.
+
+In a world where every message in the buyer's inbox was written by AI... a face and a voice cuts through everything.
+
+And have some fun with it too. This rep would add something about the city the prospect lives in.. make it personal in a way most people wouldn't bother doing.
+
+$450,000 in pipeline. From consistent videos over time.
+
+The teams that embrace the unscalable will outperform the ones trying to automate their way to pipeline.
+
+** Annotation: Demonstrates how personalized LinkedIn video outreach can be used as a content distribution and sales enablement strategy to generate qualified pipeline. Emphasizes authenticity, personalization, and consistency over automation, illustrating how founder- and rep-led content can directly influence buyer engagement and revenue outcomes in B2B SaaS.
